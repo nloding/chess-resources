@@ -119,6 +119,9 @@ scan chess positions from websites, books, images and videos:
 paste your game for quick sharing:
 - https://chesspastebin.com
 
+find cheaters in your chess.com games:
+- https://chess-cheaters.web.app/
+
 other tools, apps, software and chess related projects:
 - https://github.com/search?o=desc&q=chess&s=stars
 - https://apps.apple.com/genre/ios-games-board/id7004?letter=Chess

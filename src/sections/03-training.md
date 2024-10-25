@@ -22,6 +22,7 @@ alt: Training resources
 - https://12chess.com
 - https://chessvariants.training
 - https://bughouse.ca
+- https://noctie.ai/
 
 guess the opening sequence:
 - https://jackli.gg/chessle
