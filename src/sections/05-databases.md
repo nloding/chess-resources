@@ -13,7 +13,7 @@ alt: Games, databases, and PGN files
 - https://database.chessbase.com
 - https://www.ficsgames.org
 - https://database.nikonoel.fr
-- https://lumbrasgigabase.de
+- https://lumbrasgigabase.com/
 - http://caissabase.co.uk
 - https://www.pgnmentor.com/files.html
 - https://database.lichess.org
