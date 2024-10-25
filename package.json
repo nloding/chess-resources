@@ -1,15 +1,12 @@
 {
-  "name": "11ty-sass",
+  "name": "chess-resources",
   "version": "1.0.0",
-  "description": "11ty starter template with SASS support and Dark Mode.",
+  "description": "a curated list of chess resources",
   "keywords": [
-    "11ty",
-    "SASS",
-    "SCSS",
-    "eleventy"
+    "chess"
   ],
-  "author": "Nikita Zanella",
-  "license": "ISC",
+  "author": "Nathan Loding",
+  "license": "MIT",
   "scripts": {
     "watch:sass": "sass --watch src/sass:src/css",
     "watch:eleventy": "eleventy --serve",
